@@ -1,0 +1,16 @@
+{
+  "unpublishedCollection": {
+    "name": "submit",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "body": "export default {\nsubmit: () => {\n\t\tupload_image.run()\n\t\twrite2.run()\n\t\tsubmit_data.run()\n\t}\n}",
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Page1_submit",
+  "deleted": false,
+  "gitSyncId": "63adcc037647ed03843f930e_63aef8217647ed03843f9350"
+}
